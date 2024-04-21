@@ -1,4 +1,4 @@
-package HomeWork8;
+package edu.scoalainformala.HomeWork8;
 
 import edu.scoalainformala.HomeWork8.Athlete;
 import edu.scoalainformala.HomeWork8.BiathlonResultParser;

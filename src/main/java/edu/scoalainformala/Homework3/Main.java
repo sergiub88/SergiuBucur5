@@ -3,8 +3,8 @@ package edu.scoalainformala.Homework3;
 public class Main {
     public static void main(String[] args) {
 
-        Logan logan = new Logan(27, "wigh0934hkkadsn");
-        Golf Golf = new Golf(30, "1987ddjbk7867876");
+        Logan logan = new Logan(27, "oiqe0934hkkadsn");
+        Golf Golf = new Golf(30, "iiqe0944hkkadsn");
 
 
         logan.start();
